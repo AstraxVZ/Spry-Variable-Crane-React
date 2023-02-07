@@ -1,4 +1,11 @@
 # MPB API
 
 This is a experimental Discord bot API, it will not be released until a major update!
-hello
+
+***
+
+Every update will be either a patch or a bug fix.
+
+## Installation
+
+Currently not available.
